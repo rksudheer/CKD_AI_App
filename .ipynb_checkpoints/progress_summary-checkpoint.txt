@@ -1,0 +1,29 @@
+**📝 File 2: `progress_summary.txt`**
+
+Paste this:
+
+```text
+CKD AI Project – Progress Summary
+---------------------------------
+
+Project Directory: CKD_AI_App/
+Current Working Directory: C:/Users/DELL/CKD_AI_App
+
+✔ Step 1: Logistic Regression – Complete
+✔ Step 2: Random Forest + SMOTE – Complete
+✔ Step 3: SHAP Explainability – Complete
+✔ Step 4: Streamlit App – Prototype Running Successfully
+
+Files Used in App:
+- models/scaler_minimal.joblib
+- models/rf_minimal_model.pkl
+- data/ckd_simulated_input.csv
+
+Streamlit app runs from:
+- app/app.py
+
+Launch using:
+cd C:/Users/DELL/CKD_AI_App
+streamlit run app/app.py
+
+Ready to resume or extend development anytime.
